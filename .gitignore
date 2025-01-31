@@ -1,0 +1,13 @@
+# Report files
+*.log
+*.html
+*.xml
+*.png
+
+# Environments
+.virtualenv
+.env
+.venv
+env/
+venv/
+ENV/

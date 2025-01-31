@@ -1,0 +1,2 @@
+*** Variables ***
+${StartButton}=  id=start
